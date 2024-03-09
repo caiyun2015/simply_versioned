@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Fix Yolo 8.0.206 scale bug (#7821)
